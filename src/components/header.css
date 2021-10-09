@@ -1,0 +1,61 @@
+.header {
+  height: 85px;
+  min-width: 600px;
+  /* background-color: aqua; */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  margin-left: 50px;
+  font-size: 20px;
+  /* blod */
+  font-weight: 700;
+}
+
+.tool {
+  display: flex;
+}
+
+.search {
+  display: flex;
+  align-items: center;
+  margin-right: 100px;
+}
+
+.search-icon {
+  font-weight: 100;
+  margin-right: 10px;
+}
+
+.search-input {
+  border: none;
+  font-size: 16px;
+  outline: none;
+}
+
+.search-input::placeholder {
+  font-family: "Montserrat", sans-serif;
+}
+
+.menu {
+  display: flex;
+  list-style: none;
+  font-size: 16px;
+  /* regular */
+  font-weight: 400;
+}
+
+.menu-item {
+  margin-right: 24px;
+}
+
+.social-item {
+  margin-right: 20px;
+}
+
+.link {
+  text-decoration: none;
+  color: inherit;
+}

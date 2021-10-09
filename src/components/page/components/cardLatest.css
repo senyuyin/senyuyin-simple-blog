@@ -1,0 +1,36 @@
+.card {
+  display: flex;
+  justify-content: space-between;
+  overflow: hidden;
+  margin: 38px 93px;
+  border: solid 1px #e2e2e2;
+  border-radius: 6px;
+  box-shadow: 0 5px 4px 0 rgba(221, 221, 221, 0.25);
+}
+
+.left-content {
+  display: inline-block;
+  padding: 50px 120px;
+}
+
+.code {
+  display: inline-block;
+  width: 400px;
+  object-fit: cover;
+}
+
+.content {
+  margin-top: 37px;
+  font-size: 14px;
+}
+
+.detail {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+  font-size: 12px;
+}
+
+.read-more {
+  font-weight: 700;
+}

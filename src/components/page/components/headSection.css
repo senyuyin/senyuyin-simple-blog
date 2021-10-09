@@ -1,0 +1,36 @@
+.head-section {
+  background-color: #fbfbfb;
+}
+
+.head-section .title {
+  font-size: 64px;
+}
+
+.sub-title {
+  font-size: 30px;
+}
+
+.container {
+  padding: 70px 100px 74px 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.left-content {
+  width: 480px;
+  text-align: left;
+}
+
+.coord-img {
+  width: 476px;
+  height: 323px;
+}
+
+.coffee-icon {
+  position: relative;
+  top: 10px;
+  width: 70px;
+  height: 70px;
+  transform: rotate(-45deg);
+}

@@ -1,0 +1,21 @@
+.seeMoreBtn {
+  float: right;
+  margin: 40px 80px 40px 0;
+  width: 132px;
+  height: 37px;
+  font-size: 18px;
+  font-weight: 700;
+  padding: 9px 2px;
+  background-color: rgba(107, 70, 193, 1);
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+.seeMore-icon {
+  margin-left: 10px;
+}
+
+.clear-float {
+  clear: both;
+}

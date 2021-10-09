@@ -1,0 +1,34 @@
+.highlight-section {
+  display: flex;
+  /* justify-content: space-between; */
+  margin: 0 80px;
+  background-color: #f7fafc;
+  height: 500px;
+}
+
+.highlight-left-content {
+  padding: 140px 160px;
+  text-align: left;
+}
+
+.highlight-title {
+  font-weight: 700;
+  font-size: 42px;
+  margin-bottom: 40px;
+}
+
+.highlight-img {
+  width: 525px;
+  height: 500px;
+  object-fit: cover;
+}
+
+.highlight-tool {
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.highlight-more {
+  font-weight: 700;
+}
